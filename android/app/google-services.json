@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "192976613866",
+    "firebase_url": "https://project-light-b12ab.firebaseio.com",
+    "project_id": "project-light-b12ab",
+    "storage_bucket": "project-light-b12ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192976613866:android:f7ad06045dd2b635360293",
+        "android_client_info": {
+          "package_name": "com.firefliessync.projectlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192976613866-1h6vv8oc7qndl83kta3477ctndje2572.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firefliessync.projectlight",
+            "certificate_hash": "45b566184b904384e6123e8e607abf41a3282f11"
+          }
+        },
+        {
+          "client_id": "192976613866-6anp28ebp6vrckotavrmohle2cipphmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhlamxwMJujt6s-4G-prLxkJPC3tpeKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192976613866-6anp28ebp6vrckotavrmohle2cipphmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1819771880266436~6791146891"
+    }
+  ],
+  "configuration_version": "1"
+}
